@@ -1,0 +1,35 @@
+❓ Nasıl Oynanır? ❓
+
+💣 Amaç:
+Tüm mayınları bulmadan önce tüm güvenli hücreleri açmaktır.
+
+🖱️ Sol Tık:
+Bir hücreyi açar. Eğer bir mayına tıklarsan oyun biter! 💥
+
+🚩 Shift + Sol Tık veya Sağ Tık:
+Bir hücreye bayrak yerleştirir veya bayrağı kaldırır. Bu, mayın olduğunu düşündüğün yerlere işaret koymanı sağlar.
+
+🧠 Çift Tıklama (Yeni!):
+Sayılı bir hücreye çift tıklarsan ve çevresindeki bayrak sayısı doğruysa, etrafındaki tüm güvenli hücreler otomatik açılır!
+
+🎯 Zorluk Seviyeleri:
+
+🟢 Kolay (9x9 - 10 mayın)
+
+🟡 Orta (16x16 - 40 mayın)
+
+🔴 Zor (30x30 - 160 mayın)
+
+⏱️ Sayaçlar:
+
+Sol tarafta kalan mayın sayısını gösterir
+
+Sağda ise geçen süreyi görürsün
+
+😀 Yüz İkonu:
+
+😃 Normal
+
+😵 Patladığında
+
+😎 Kazandığında
