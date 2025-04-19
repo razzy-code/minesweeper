@@ -1,0 +1,13 @@
+🔄 Güncelleme Notları 🔄
+
+🛠️ v2.5 Güncellemesi
+
+🎮 Çift Tıklama Özelliği Eklendi
+🔹 Artık sayı görünen bir hücreye çift tıklayarak, çevresindeki bayraklar doğruysa otomatik açılıyor!
+
+🛠️ Kod Optimizasyonları
+🔹 Daha hızlı başlangıç ve daha düşük gecikme
+🔹 Temiz ve düzenli yapı
+
+📄 Yeni "Nasıl Oynanır" Rehberi
+🔹 Oyunun temel mekanikleri ve kısayollar detaylı olarak eklendi!
